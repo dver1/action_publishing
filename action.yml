@@ -1,0 +1,6 @@
+name: Pilar Ternera 1967
+description: This action greets people
+runs: 
+  uses: node16
+  main: src/index.js
+  
